@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client-feign" />
+        <module name="client-gateway-zuul" />
+        <module name="client-order-ribbon" />
+        <module name="client-turbine-monitor" />
+        <module name="eureka-server" />
+        <module name="service-order" />
+        <module name="service-user" />
+        <module name="spring-boot-admin-server" />
+        <module name="swagger-doc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client-common-dependencys" target="1.8" />
+      <module name="client-feign" target="1.8" />
+      <module name="client-gateway-zuul" target="1.8" />
+      <module name="client-order-ribbon" target="1.8" />
+      <module name="client-turbine-monitor" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="service-common-dependencys" target="1.8" />
+      <module name="service-order" target="1.8" />
+      <module name="service-user" target="1.8" />
+      <module name="spring-boot-admin-server" target="1.8" />
+      <module name="spring-boot-demo-all" target="1.8" />
+      <module name="swagger-doc" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

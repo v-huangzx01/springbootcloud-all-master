@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/client-common-dependencys/client-common-dependencys.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/client-common-dependencys/client-common-dependencys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/client-feign/client-feign.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/client-feign/client-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/client-gateway-zuul/client-gateway-zuul.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/client-gateway-zuul/client-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/client-order-ribbon/client-order-ribbon.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/client-order-ribbon/client-order-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/client-turbine-monitor/client-turbine-monitor.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/client-turbine-monitor/client-turbine-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/service-common-dependencys/service-common-dependencys.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/service-common-dependencys/service-common-dependencys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/service-order/service-order.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/service-order/service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/service-user/service-user.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/service-user/service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/spring-boot-admin-server/spring-boot-admin-server.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/spring-boot-admin-server/spring-boot-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/spring-boot-demo-all.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/spring-boot-demo-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springbootcloud-all-master.iml" filepath="$PROJECT_DIR$/.idea/springbootcloud-all-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootcloud-all-master/swagger-doc/swagger-doc.iml" filepath="$PROJECT_DIR$/springbootcloud-all-master/swagger-doc/swagger-doc.iml" />
+    </modules>
+  </component>
+</project>
